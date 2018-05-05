@@ -15,3 +15,6 @@ Users can also talk about their favourite weather and have other interactions wi
 - import project into your IDE of choice(Eclipse recommended).
 - Run program(Must have Internet connection at time of initialisation).
 - Follow chatbot's instructions to start chatting.
+
+##Dependencies
+All libraries are already included.
